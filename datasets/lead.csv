@@ -1,0 +1,251 @@
+Annual Revenue,RiskRating,Limit Usage,EBITA Margin,Islisted,State,Country,Do not allow E-mails,Do not allow Faxes,Do not allow Mails,Do not allow Phone Calls,Est. Value,Industry,Job Title,Lead Source,No. of Employees,Rating,Conversion
+100000,A,73,19,1,Liverpool,United Kingdom,Allow,Allow,Do Not Allow,Allow,44000,Government/Aerospace/Defence,Purchasing Manager,Referal,25,Warm,1
+80000,B,60,16,1,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,1200,Education/Research,Owner,Email,18,Hot,0
+30000,C,24,19,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,25500,Utilities,Owner,Partner,6,Warm,1
+150000,C,34,19,1,Bristol,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Energy,Purchasing Manager,Referal,43,Hot,0
+100000,B,35,20,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,23000,Technology/Software,Purchasing Manager,Digital,27,Warm,1
+150000,B,13,17,0,London,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Finance/Banking,Purchasing Manager,Email,44,Hot,1
+300000,A,51,15,1,New York,United States,Allow,Allow,Allow,Allow,66000,Energy,Purchasing Assistant,Digital,70,Warm,0
+300000,C,95,18,0,London,United Kingdom,Allow,Allow,Allow,Allow,66000,Electronics,Purchasing Assistant,Partner,76,Warm,0
+80000,A,88,18,0,Maharashtra,India,Allow,Allow,Allow,Allow,22000,Electronics,Owner,Digital,13,Warm,0
+80000,B,76,20,0,Florida,United States,Allow,Allow,Allow,Allow,25500,System Integrators/Consulting,Owner,Referal,13,Warm,1
+300000,C,15,19,0,Delhi,India,Do Not Allow,Allow,Allow,Allow,96000,Telecommunications,Purchasing Assistant,Referal,86,Hot,1
+150000,C,19,20,0,California,United States,Allow,Allow,Allow,Allow,51000,Utilities,Purchasing Manager,Digital,30,Warm,1
+80000,B,86,20,1,California,United States,Allow,Allow,Do Not Allow,Allow,18000,Telecommunications,Owner,Digital,18,Cold,1
+300000,B,92,20,1,California,United States,Allow,Allow,Allow,Allow,3600,Telecommunications,Purchasing Assistant,Partner,92,Hot,0
+150000,A,53,16,0,Bristol,United Kingdom,Allow,Allow,Do Not Allow,Allow,44000,Healthcare,Purchasing Manager,Digital,43,Warm,0
+30000,B,72,20,0,London,United Kingdom,Allow,Allow,Do Not Allow,Allow,1200,Finance/Banking,Owner,Referal,4,Hot,1
+100000,A,91,16,0,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,36000,Media/Entertainment,Purchasing Manager,Digital,29,Cold,1
+80000,C,52,16,1,California,United States,Allow,Allow,Allow,Allow,18000,Retail,Owner,Email,16,Cold,0
+100000,B,75,16,1,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,30000,Insurance,Purchasing Manager,Referal,20,Hot,0
+300000,A,19,18,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,34500,Finance/Banking,Purchasing Assistant,Digital,66,Warm,1
+150000,A,75,20,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,51000,Electronics,Purchasing Manager,Partner,44,Warm,1
+80000,C,50,18,0,Florida,United States,Allow,Allow,Allow,Allow,2400,Media/Entertainment,Purchasing Manager,Email,10,Hot,1
+150000,B,22,18,1,Liverpool,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Finance/Banking,Purchasing Manager,Partner,39,Hot,1
+80000,C,58,19,1,Uttar Pradesh,India,Allow,Allow,Allow,Allow,18000,Media/Entertainment,Owner,Email,15,Cold,0
+150000,C,69,18,1,New York,United States,Allow,Allow,Allow,Allow,34500,Manufacturing,Purchasing Assistant,Partner,40,Warm,1
+30000,B,11,18,0,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,25500,Manufacturing,Owner,Referal,4,Warm,1
+300000,C,20,19,0,London,United Kingdom,Allow,Allow,Allow,Allow,66000,Healthcare,Purchasing Assistant,Referal,79,Warm,0
+300000,C,84,18,0,Delhi,India,Allow,Allow,Allow,Allow,76500,Telecommunications,Purchasing Assistant,Partner,82,Warm,0
+300000,A,90,18,0,Delhi,India,Allow,Allow,Allow,Allow,3600,Finance/Banking,Purchasing Assistant,Partner,95,Hot,0
+30000,A,62,19,1,London,United Kingdom,Allow,Allow,Allow,Allow,18000,Education/Research,Owner,Digital,5,Cold,0
+150000,C,86,19,0,Delhi,India,Allow,Allow,Allow,Allow,54000,Manufacturing,Purchasing Assistant,Partner,40,Cold,0
+150000,C,76,17,1,Bristol,United Kingdom,Allow,Allow,Do Not Allow,Allow,23000,Telecommunications,Purchasing Manager,Digital,37,Warm,0
+80000,A,41,19,0,Tamil Nadu,India,Allow,Do Not Allow,Allow,Allow,23000,Energy,Purchasing Manager,Partner,10,Warm,1
+30000,B,28,16,1,Tamil Nadu,India,Do Not Allow,Allow,Allow,Allow,32000,Government/Aerospace/Defence,Owner,Digital,2,Hot,1
+300000,A,80,15,1,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,54000,Healthcare,Purchasing Assistant,Email,83,Cold,1
+80000,A,29,17,0,London,United Kingdom,Allow,Allow,Allow,Allow,18000,Education/Research,Owner,Referal,14,Cold,1
+300000,B,61,20,1,Bristol,United Kingdom,Allow,Do Not Allow,Allow,Allow,66000,Energy,Purchasing Assistant,Email,70,Warm,0
+80000,C,66,17,1,New York,United States,Do Not Allow,Do Not Allow,Allow,Allow,32000,Utilities,Owner,Partner,14,Hot,1
+150000,C,69,18,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,44000,Healthcare,Purchasing Manager,Digital,40,Warm,1
+300000,B,21,20,1,Maharashtra,India,Allow,Do Not Allow,Allow,Allow,66000,Government/Aerospace/Defence,Purchasing Assistant,Referal,52,Warm,1
+300000,A,18,18,1,Oklahoma,United States,Allow,Allow,Allow,Allow,66000,Electronics,Purchasing Assistant,Digital,52,Warm,1
+150000,B,61,17,0,Maharashtra,India,Allow,Allow,Allow,Allow,44000,Education/Research,Purchasing Manager,Partner,49,Warm,0
+300000,A,67,18,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,54000,Finance/Banking,Purchasing Assistant,Digital,58,Cold,0
+30000,A,30,19,1,Maharashtra,India,Allow,Allow,Allow,Allow,25500,Hotels/Resturants,Owner,Referal,2,Warm,1
+150000,B,52,17,1,Glasgow,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Insurance,Purchasing Manager,Referal,42,Hot,1
+150000,A,89,20,0,Tamil Nadu,India,Allow,Do Not Allow,Allow,Allow,66000,Telecommunications,Purchasing Assistant,Referal,43,Warm,0
+150000,B,77,17,0,New York,United States,Allow,Do Not Allow,Allow,Allow,51000,Telecommunications,Purchasing Manager,Digital,39,Warm,0
+30000,A,64,18,1,Delhi,India,Allow,Allow,Allow,Allow,1200,Hotels/Resturants,Owner,Referal,2,Hot,1
+30000,A,11,17,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,11500,Electronics,Owner,Referal,6,Warm,1
+300000,A,19,16,0,Oklahoma,United States,Do Not Allow,Allow,Allow,Allow,96000,Government/Aerospace/Defence,Purchasing Assistant,Email,94,Hot,0
+300000,C,41,20,1,Florida,United States,Allow,Allow,Allow,Allow,3600,Utilities,Purchasing Assistant,Digital,94,Hot,1
+300000,C,15,19,0,Tamil Nadu,India,Allow,Allow,Allow,Allow,54000,Government/Aerospace/Defence,Purchasing Assistant,Partner,99,Cold,1
+300000,B,47,20,0,Liverpool,United Kingdom,Do Not Allow,Allow,Allow,Allow,96000,Technology/Software,Purchasing Assistant,Referal,95,Hot,1
+30000,A,25,17,0,Maharashtra,India,Allow,Allow,Allow,Allow,11500,System Integrators/Consulting,Owner,Email,4,Warm,1
+150000,C,85,17,1,Delhi,India,Allow,Allow,Allow,Allow,36000,Education/Research,Purchasing Manager,Digital,48,Cold,0
+80000,A,31,20,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,22000,System Integrators/Consulting,Owner,Referal,17,Warm,0
+80000,C,65,17,0,Tamil Nadu,India,Allow,Allow,Allow,Allow,51000,Transportation/Shipping/Cargo,Purchasing Manager,Digital,13,Warm,0
+300000,A,13,18,0,Oklahoma,United States,Do Not Allow,Allow,Do Not Allow,Allow,96000,Technology/Software,Purchasing Assistant,Partner,90,Hot,0
+30000,B,56,19,0,Maharashtra,India,Allow,Allow,Allow,Allow,25500,Technology/Software,Owner,Partner,9,Warm,1
+150000,B,15,17,0,California,United States,Do Not Allow,Allow,Allow,Allow,64000,Finance/Banking,Purchasing Manager,Email,40,Hot,1
+150000,C,44,15,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,44000,Healthcare,Purchasing Manager,Referal,43,Warm,1
+80000,C,21,20,1,Maharashtra,India,Allow,Allow,Allow,Allow,11500,Education/Research,Owner,Partner,19,Warm,0
+80000,B,21,19,1,New York,United States,Allow,Allow,Allow,Allow,1200,Energy,Owner,Email,14,Hot,0
+300000,C,70,20,0,California,United States,Allow,Allow,Allow,Allow,34500,Media/Entertainment,Purchasing Assistant,Partner,92,Warm,1
+300000,B,31,16,1,London,United Kingdom,Allow,Allow,Allow,Allow,34500,Telecommunications,Purchasing Assistant,Email,89,Warm,0
+80000,B,51,16,1,Oklahoma,United States,Allow,Allow,Allow,Allow,51000,Media/Entertainment,Purchasing Manager,Digital,16,Warm,1
+30000,C,38,20,1,Uttar Pradesh,India,Allow,Do Not Allow,Allow,Allow,1200,Government/Aerospace/Defence,Owner,Digital,2,Hot,0
+30000,C,59,18,1,Maharashtra,India,Allow,Allow,Allow,Allow,25500,Insurance,Owner,Partner,7,Warm,1
+150000,A,82,19,0,Florida,United States,Allow,Allow,Allow,Allow,23000,Utilities,Purchasing Manager,Referal,36,Warm,1
+100000,A,96,16,0,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,36000,Government/Aerospace/Defence,Purchasing Manager,Digital,25,Cold,0
+150000,C,51,15,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,66000,System Integrators/Consulting,Purchasing Assistant,Partner,49,Warm,0
+300000,B,39,17,1,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,76500,Energy,Purchasing Assistant,Partner,90,Warm,0
+150000,C,94,18,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,51000,Telecommunications,Purchasing Manager,Partner,46,Warm,0
+80000,B,50,19,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,1200,Media/Entertainment,Owner,Digital,14,Hot,0
+150000,B,28,19,0,California,United States,Allow,Allow,Allow,Allow,23000,Utilities,Purchasing Manager,Digital,32,Warm,0
+300000,B,66,20,1,Maharashtra,India,Allow,Allow,Allow,Allow,66000,Utilities,Purchasing Assistant,Digital,73,Warm,1
+30000,C,45,18,1,Maharashtra,India,Allow,Allow,Allow,Allow,22000,Retail,Owner,Partner,9,Warm,1
+80000,A,30,20,0,Oklahoma,United States,Allow,Allow,Allow,Allow,2400,System Integrators/Consulting,Purchasing Manager,Email,13,Hot,1
+150000,A,72,18,0,Alaska,United States,Allow,Do Not Allow,Allow,Allow,2400,Electronics,Purchasing Manager,Email,38,Hot,1
+30000,A,67,15,0,Florida,United States,Allow,Allow,Allow,Allow,1200,Electronics,Owner,Email,6,Hot,1
+300000,B,69,18,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,34500,Insurance,Purchasing Assistant,Partner,96,Warm,1
+100000,A,95,15,0,Delhi,India,Allow,Allow,Allow,Allow,23000,System Integrators/Consulting,Purchasing Manager,Email,25,Warm,1
+300000,B,80,19,1,New York,United States,Allow,Allow,Allow,Allow,54000,Transportation/Shipping/Cargo,Purchasing Assistant,Digital,66,Cold,0
+30000,A,49,18,0,Oklahoma,United States,Allow,Allow,Allow,Allow,25500,Healthcare,Owner,Referal,5,Warm,0
+150000,A,40,16,0,New York,United States,Allow,Allow,Allow,Allow,2400,Transportation/Shipping/Cargo,Purchasing Manager,Email,37,Hot,0
+30000,B,44,19,1,California,United States,Allow,Allow,Allow,Allow,1200,Energy,Owner,Partner,8,Hot,0
+100000,B,43,17,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,36000,Utilities,Purchasing Manager,Digital,28,Cold,1
+80000,A,94,16,1,Delhi,India,Allow,Allow,Allow,Allow,11500,Media/Entertainment,Owner,Email,10,Warm,0
+30000,A,28,19,0,Maharashtra,India,Do Not Allow,Allow,Allow,Allow,32000,System Integrators/Consulting,Owner,Partner,6,Hot,1
+80000,C,99,15,0,Alaska,United States,Allow,Allow,Allow,Allow,36000,Manufacturing,Purchasing Manager,Digital,13,Cold,0
+80000,B,27,15,0,Delhi,India,Allow,Allow,Allow,Allow,18000,Government/Aerospace/Defence,Owner,Referal,18,Cold,1
+30000,A,12,17,1,Alaska,United States,Allow,Allow,Allow,Allow,11500,Retail,Owner,Digital,8,Warm,1
+300000,A,61,18,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,76500,Government/Aerospace/Defence,Purchasing Assistant,Partner,88,Warm,1
+80000,C,59,17,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,36000,Healthcare,Purchasing Manager,Digital,10,Cold,1
+300000,C,44,19,0,Oklahoma,United States,Do Not Allow,Allow,Do Not Allow,Allow,96000,Utilities,Purchasing Assistant,Digital,84,Hot,1
+300000,A,44,16,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,76500,Hotels/Resturants,Purchasing Assistant,Digital,91,Warm,1
+30000,B,30,18,1,Alaska,United States,Do Not Allow,Allow,Allow,Allow,32000,Insurance,Owner,Digital,3,Hot,1
+80000,B,28,19,0,Oklahoma,United States,Allow,Allow,Allow,Allow,11500,Telecommunications,Owner,Referal,16,Warm,0
+150000,A,95,15,0,California,United States,Do Not Allow,Allow,Allow,Allow,64000,Hotels/Resturants,Purchasing Manager,Partner,32,Hot,0
+150000,A,68,20,0,Delhi,India,Allow,Allow,Allow,Allow,51000,Healthcare,Purchasing Manager,Referal,45,Warm,0
+80000,C,64,18,0,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,18000,Utilities,Owner,Digital,14,Cold,1
+30000,A,90,15,1,Uttar Pradesh,India,Allow,Allow,Allow,Allow,1200,Insurance,Owner,Partner,5,Hot,0
+150000,B,35,18,1,New York,United States,Allow,Allow,Allow,Allow,23000,Transportation/Shipping/Cargo,Purchasing Manager,Email,33,Warm,1
+80000,C,24,16,0,Uttar Pradesh,India,Allow,Allow,Allow,Allow,1200,Electronics,Owner,Referal,17,Hot,0
+30000,B,20,18,0,Alaska,United States,Do Not Allow,Allow,Allow,Allow,32000,Electronics,Owner,Email,5,Hot,0
+80000,A,41,16,1,Glasgow,United Kingdom,Do Not Allow,Allow,Allow,Allow,32000,System Integrators/Consulting,Owner,Partner,13,Hot,0
+80000,C,73,18,0,Delhi,India,Do Not Allow,Allow,Allow,Allow,32000,Electronics,Owner,Partner,17,Hot,1
+100000,A,29,17,1,London,United Kingdom,Allow,Allow,Allow,Allow,23000,Finance/Banking,Purchasing Manager,Email,28,Warm,1
+30000,C,100,16,0,Delhi,India,Allow,Allow,Allow,Allow,22000,Electronics,Owner,Email,8,Warm,1
+300000,C,77,15,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,3600,Insurance,Purchasing Assistant,Partner,87,Hot,1
+80000,C,43,15,1,Uttar Pradesh,India,Allow,Allow,Allow,Allow,18000,Insurance,Owner,Partner,19,Cold,0
+300000,B,67,20,1,New York,United States,Allow,Allow,Allow,Allow,34500,Insurance,Purchasing Assistant,Referal,97,Warm,0
+80000,C,87,17,0,Delhi,India,Allow,Allow,Allow,Allow,11500,Hotels/Resturants,Owner,Partner,17,Warm,0
+150000,A,18,16,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,2400,Education/Research,Purchasing Manager,Partner,39,Hot,0
+30000,C,48,16,0,Tamil Nadu,India,Allow,Allow,Allow,Allow,1200,Hotels/Resturants,Owner,Email,2,Hot,1
+80000,B,44,20,1,Florida,United States,Do Not Allow,Allow,Allow,Allow,32000,Insurance,Owner,Digital,18,Hot,1
+300000,A,79,19,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,66000,Insurance,Purchasing Assistant,Email,97,Warm,1
+300000,A,22,16,0,Uttar Pradesh,India,Allow,Allow,Allow,Allow,76500,Telecommunications,Purchasing Assistant,Referal,67,Warm,1
+30000,A,65,16,0,California,United States,Allow,Allow,Do Not Allow,Allow,11500,Technology/Software,Owner,Partner,5,Warm,0
+300000,B,69,20,1,Florida,United States,Allow,Allow,Allow,Allow,66000,Finance/Banking,Purchasing Assistant,Digital,83,Warm,0
+80000,A,17,15,0,Maharashtra,India,Allow,Allow,Allow,Allow,22000,Retail,Owner,Digital,16,Warm,0
+300000,C,24,15,1,Florida,United States,Allow,Allow,Allow,Allow,54000,Technology/Software,Purchasing Assistant,Email,76,Cold,0
+300000,C,51,20,1,Uttar Pradesh,India,Allow,Do Not Allow,Allow,Allow,84000,Government/Aerospace/Defence,Purchasing Assistant,Email,73,Cold,1
+300000,B,21,17,0,New York,United States,Allow,Allow,Allow,Allow,3600,Utilities,Purchasing Assistant,Partner,90,Hot,1
+100000,C,85,15,0,Glasgow,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Transportation/Shipping/Cargo,Purchasing Manager,Digital,27,Hot,1
+100000,C,22,16,1,Oklahoma,United States,Allow,Allow,Do Not Allow,Allow,44000,Government/Aerospace/Defence,Purchasing Manager,Partner,25,Warm,1
+80000,C,30,20,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,1200,Insurance,Owner,Digital,18,Hot,0
+30000,B,74,19,0,Delhi,India,Allow,Allow,Allow,Allow,25500,Insurance,Owner,Referal,6,Warm,1
+150000,B,92,18,0,London,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Insurance,Purchasing Manager,Partner,43,Hot,0
+100000,B,100,15,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,23000,Government/Aerospace/Defence,Purchasing Manager,Digital,27,Warm,1
+150000,A,73,19,1,Manchaster,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Government/Aerospace/Defence,Purchasing Manager,Partner,44,Hot,1
+300000,C,41,17,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,66000,Utilities,Purchasing Assistant,Digital,70,Warm,0
+300000,B,26,18,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,66000,Utilities,Purchasing Assistant,Email,76,Warm,0
+80000,B,89,18,0,Delhi,India,Allow,Allow,Allow,Allow,22000,Education/Research,Owner,Digital,13,Warm,0
+80000,C,61,18,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,25500,Insurance,Owner,Referal,13,Warm,1
+300000,A,66,15,1,Florida,United States,Do Not Allow,Allow,Allow,Allow,96000,Technology/Software,Purchasing Assistant,Partner,86,Hot,1
+150000,A,52,19,0,Maharashtra,India,Allow,Allow,Allow,Allow,51000,Healthcare,Purchasing Manager,Digital,30,Warm,1
+80000,C,62,16,0,Bristol,United Kingdom,Allow,Allow,Do Not Allow,Allow,18000,Finance/Banking,Owner,Partner,18,Cold,1
+300000,B,77,16,0,Alaska,United States,Allow,Allow,Allow,Allow,3600,Retail,Purchasing Assistant,Referal,92,Hot,0
+150000,A,46,16,1,New York,United States,Allow,Allow,Do Not Allow,Allow,44000,Healthcare,Purchasing Manager,Email,43,Warm,0
+30000,A,27,17,0,Maharashtra,India,Allow,Allow,Do Not Allow,Allow,1200,Government/Aerospace/Defence,Owner,Partner,4,Hot,1
+100000,B,64,15,0,Maharashtra,India,Allow,Allow,Allow,Allow,36000,System Integrators/Consulting,Purchasing Manager,Digital,29,Cold,1
+80000,C,55,18,0,Oklahoma,United States,Allow,Allow,Allow,Allow,18000,Transportation/Shipping/Cargo,Owner,Referal,16,Cold,0
+100000,A,15,18,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,30000,Healthcare,Purchasing Manager,Referal,20,Hot,0
+300000,A,72,17,0,California,United States,Allow,Allow,Allow,Allow,34500,Government/Aerospace/Defence,Purchasing Assistant,Email,66,Warm,1
+150000,C,87,20,1,Maharashtra,India,Allow,Allow,Allow,Allow,51000,Healthcare,Purchasing Manager,Referal,44,Warm,1
+80000,A,15,20,0,Tamil Nadu,India,Allow,Allow,Allow,Allow,2400,Utilities,Purchasing Manager,Partner,10,Hot,1
+150000,B,21,18,1,London,United Kingdom,Do Not Allow,Allow,Allow,Allow,64000,Manufacturing,Purchasing Manager,Email,39,Hot,1
+80000,B,34,18,0,Oklahoma,United States,Allow,Allow,Allow,Allow,18000,Healthcare,Owner,Email,15,Cold,0
+150000,C,27,19,0,London,United Kingdom,Allow,Allow,Allow,Allow,34500,Retail,Purchasing Assistant,Digital,40,Warm,1
+30000,A,71,18,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,25500,Education/Research,Owner,Digital,4,Warm,1
+300000,A,64,19,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,66000,Media/Entertainment,Purchasing Assistant,Digital,79,Warm,0
+300000,C,79,15,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,76500,Electronics,Purchasing Assistant,Email,82,Warm,0
+300000,C,18,18,0,Delhi,India,Allow,Allow,Allow,Allow,3600,Healthcare,Purchasing Assistant,Referal,95,Hot,0
+30000,A,25,19,1,Tamil Nadu,India,Allow,Allow,Allow,Allow,18000,Telecommunications,Owner,Digital,5,Cold,0
+150000,C,34,17,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,54000,Hotels/Resturants,Purchasing Assistant,Partner,40,Cold,0
+150000,A,16,18,1,California,United States,Allow,Allow,Do Not Allow,Allow,23000,Technology/Software,Purchasing Manager,Email,37,Warm,0
+80000,C,14,19,1,California,United States,Allow,Do Not Allow,Allow,Allow,23000,Technology/Software,Purchasing Manager,Partner,10,Warm,1
+30000,C,97,16,1,Uttar Pradesh,India,Do Not Allow,Allow,Allow,Allow,32000,Telecommunications,Owner,Referal,2,Hot,1
+300000,B,79,18,0,Maharashtra,India,Allow,Allow,Allow,Allow,54000,Government/Aerospace/Defence,Purchasing Assistant,Referal,83,Cold,1
+80000,B,57,17,0,Florida,United States,Allow,Allow,Allow,Allow,18000,Utilities,Owner,Email,14,Cold,1
+300000,C,58,15,1,Liverpool,United Kingdom,Allow,Do Not Allow,Allow,Allow,66000,Energy,Purchasing Assistant,Email,70,Warm,0
+80000,C,36,19,1,California,United States,Do Not Allow,Do Not Allow,Allow,Allow,32000,Retail,Owner,Email,14,Hot,1
+150000,B,89,20,1,California,United States,Allow,Allow,Allow,Allow,44000,Utilities,Purchasing Manager,Partner,40,Warm,1
+300000,C,29,20,0,Tamil Nadu,India,Allow,Do Not Allow,Allow,Allow,66000,Government/Aerospace/Defence,Purchasing Assistant,Digital,52,Warm,1
+300000,B,69,16,1,Tamil Nadu,India,Allow,Allow,Allow,Allow,66000,Media/Entertainment,Purchasing Assistant,Referal,52,Warm,1
+150000,B,75,15,0,Maharashtra,India,Allow,Allow,Allow,Allow,44000,Utilities,Purchasing Manager,Referal,49,Warm,0
+300000,C,23,17,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,54000,Retail,Purchasing Assistant,Digital,58,Cold,0
+30000,A,39,16,0,Uttar Pradesh,India,Allow,Allow,Allow,Allow,25500,Utilities,Owner,Digital,2,Warm,1
+150000,C,63,18,0,Tamil Nadu,India,Do Not Allow,Allow,Allow,Allow,64000,Media/Entertainment,Purchasing Manager,Digital,42,Hot,1
+150000,C,23,18,0,Bristol,United Kingdom,Allow,Do Not Allow,Allow,Allow,66000,Telecommunications,Purchasing Assistant,Referal,43,Warm,0
+150000,A,43,16,1,Florida,United States,Allow,Do Not Allow,Allow,Allow,51000,Hotels/Resturants,Purchasing Manager,Email,39,Warm,0
+30000,C,42,20,1,Oklahoma,United States,Allow,Allow,Allow,Allow,1200,Transportation/Shipping/Cargo,Owner,Partner,2,Hot,1
+30000,B,36,15,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,11500,Telecommunications,Owner,Referal,6,Warm,1
+300000,A,54,18,0,Liverpool,United Kingdom,Do Not Allow,Allow,Allow,Allow,96000,Finance/Banking,Purchasing Assistant,Referal,94,Hot,0
+300000,B,25,18,0,Uttar Pradesh,India,Allow,Allow,Allow,Allow,3600,Media/Entertainment,Purchasing Assistant,Partner,94,Hot,1
+300000,A,33,15,0,Delhi,India,Allow,Allow,Allow,Allow,54000,System Integrators/Consulting,Purchasing Assistant,Partner,99,Cold,1
+300000,C,62,17,1,Manchaster,United Kingdom,Do Not Allow,Allow,Allow,Allow,96000,Education/Research,Purchasing Assistant,Referal,95,Hot,1
+30000,B,84,20,0,Florida,United States,Allow,Allow,Allow,Allow,11500,Utilities,Owner,Partner,4,Warm,1
+150000,A,29,20,0,Maharashtra,India,Allow,Allow,Allow,Allow,36000,Media/Entertainment,Purchasing Manager,Referal,48,Cold,0
+80000,B,54,19,1,Delhi,India,Allow,Allow,Allow,Allow,22000,Manufacturing,Owner,Digital,17,Warm,0
+80000,C,88,18,0,New York,United States,Allow,Allow,Allow,Allow,51000,Government/Aerospace/Defence,Purchasing Manager,Email,13,Warm,0
+300000,C,67,20,1,Tamil Nadu,India,Do Not Allow,Allow,Do Not Allow,Allow,96000,Manufacturing,Purchasing Assistant,Digital,90,Hot,0
+30000,B,92,19,1,Oklahoma,United States,Allow,Allow,Allow,Allow,25500,Government/Aerospace/Defence,Owner,Email,9,Warm,1
+150000,C,76,19,1,Maharashtra,India,Do Not Allow,Allow,Allow,Allow,64000,System Integrators/Consulting,Purchasing Manager,Email,40,Hot,1
+150000,B,47,19,1,Oklahoma,United States,Allow,Allow,Allow,Allow,44000,Telecommunications,Purchasing Manager,Email,43,Warm,1
+80000,A,49,19,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,11500,Insurance,Owner,Email,19,Warm,0
+80000,B,41,20,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,1200,Government/Aerospace/Defence,Owner,Partner,14,Hot,0
+300000,B,35,16,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,34500,Insurance,Purchasing Assistant,Referal,92,Warm,1
+300000,C,48,17,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,34500,Transportation/Shipping/Cargo,Purchasing Assistant,Email,89,Warm,0
+80000,B,75,19,1,Alaska,United States,Allow,Allow,Allow,Allow,51000,System Integrators/Consulting,Purchasing Manager,Partner,16,Warm,1
+30000,A,60,19,0,Bristol,United Kingdom,Allow,Do Not Allow,Allow,Allow,1200,Hotels/Resturants,Owner,Referal,2,Hot,0
+30000,A,32,17,0,Maharashtra,India,Allow,Allow,Allow,Allow,25500,System Integrators/Consulting,Owner,Digital,7,Warm,1
+150000,C,75,17,1,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,23000,Insurance,Purchasing Manager,Email,36,Warm,1
+100000,C,46,18,1,Uttar Pradesh,India,Allow,Allow,Allow,Allow,36000,Energy,Purchasing Manager,Referal,25,Cold,0
+150000,B,44,16,1,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,66000,System Integrators/Consulting,Purchasing Assistant,Email,49,Warm,0
+300000,C,25,15,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,76500,Utilities,Purchasing Assistant,Digital,90,Warm,0
+150000,B,46,16,0,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,51000,Healthcare,Purchasing Manager,Referal,46,Warm,0
+80000,A,48,18,1,Maharashtra,India,Allow,Allow,Allow,Allow,1200,Telecommunications,Owner,Referal,14,Hot,0
+150000,C,77,19,1,New York,United States,Allow,Allow,Allow,Allow,23000,Utilities,Purchasing Manager,Partner,32,Warm,0
+300000,B,61,20,0,California,United States,Allow,Allow,Allow,Allow,66000,Media/Entertainment,Purchasing Assistant,Digital,73,Warm,1
+30000,A,95,18,1,London,United Kingdom,Allow,Allow,Allow,Allow,22000,Telecommunications,Owner,Referal,9,Warm,1
+80000,A,89,20,1,New York,United States,Allow,Allow,Allow,Allow,2400,Transportation/Shipping/Cargo,Purchasing Manager,Referal,13,Hot,1
+150000,B,95,17,0,Liverpool,United Kingdom,Allow,Do Not Allow,Allow,Allow,2400,Insurance,Purchasing Manager,Partner,38,Hot,1
+30000,C,11,15,0,London,United Kingdom,Allow,Allow,Allow,Allow,1200,Insurance,Owner,Digital,6,Hot,1
+300000,A,96,19,1,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,34500,Education/Research,Purchasing Assistant,Partner,96,Warm,1
+100000,B,29,18,1,Oklahoma,United States,Allow,Allow,Allow,Allow,23000,Hotels/Resturants,Purchasing Manager,Digital,25,Warm,1
+300000,C,95,16,0,Oklahoma,United States,Allow,Allow,Allow,Allow,54000,System Integrators/Consulting,Purchasing Assistant,Referal,66,Cold,0
+30000,B,16,20,0,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,25500,Education/Research,Owner,Digital,5,Warm,0
+150000,C,47,19,0,Alaska,United States,Allow,Allow,Allow,Allow,2400,Manufacturing,Purchasing Manager,Referal,37,Hot,0
+30000,C,86,16,1,Bristol,United Kingdom,Allow,Allow,Allow,Allow,1200,Manufacturing,Owner,Email,8,Hot,0
+100000,C,64,18,1,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,36000,Electronics,Purchasing Manager,Email,28,Cold,1
+80000,C,75,17,1,New York,United States,Allow,Allow,Allow,Allow,11500,Education/Research,Owner,Partner,10,Warm,0
+30000,C,26,15,1,Alaska,United States,Do Not Allow,Allow,Allow,Allow,32000,Transportation/Shipping/Cargo,Owner,Digital,6,Hot,1
+80000,A,18,20,1,Maharashtra,India,Allow,Allow,Allow,Allow,36000,Technology/Software,Purchasing Manager,Digital,13,Cold,0
+80000,C,27,16,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,18000,Hotels/Resturants,Owner,Digital,18,Cold,1
+30000,A,84,16,1,New York,United States,Allow,Allow,Allow,Allow,11500,Education/Research,Owner,Partner,8,Warm,1
+300000,A,48,17,0,Uttar Pradesh,India,Allow,Allow,Allow,Allow,76500,Finance/Banking,Purchasing Assistant,Referal,88,Warm,1
+80000,A,24,20,0,Maharashtra,India,Allow,Allow,Allow,Allow,36000,Manufacturing,Purchasing Manager,Digital,10,Cold,1
+300000,B,23,20,0,Manchaster,United Kingdom,Do Not Allow,Allow,Do Not Allow,Allow,96000,Education/Research,Purchasing Assistant,Partner,84,Hot,1
+300000,C,20,20,1,London,United Kingdom,Allow,Allow,Allow,Allow,76500,Education/Research,Purchasing Assistant,Partner,91,Warm,1
+30000,B,100,20,0,Alaska,United States,Do Not Allow,Allow,Allow,Allow,32000,Technology/Software,Owner,Email,3,Hot,1
+80000,A,35,19,0,Florida,United States,Allow,Allow,Allow,Allow,11500,Technology/Software,Owner,Email,16,Warm,0
+150000,A,68,17,0,New York,United States,Do Not Allow,Allow,Allow,Allow,64000,Healthcare,Purchasing Manager,Digital,32,Hot,0
+150000,B,79,20,1,Alaska,United States,Allow,Allow,Allow,Allow,51000,Transportation/Shipping/Cargo,Purchasing Manager,Email,45,Warm,0
+80000,C,78,15,0,Florida,United States,Allow,Allow,Allow,Allow,18000,Government/Aerospace/Defence,Owner,Referal,14,Cold,1
+30000,B,18,20,0,Bristol,United Kingdom,Allow,Allow,Allow,Allow,1200,Electronics,Owner,Digital,5,Hot,0
+150000,B,61,15,1,Uttar Pradesh,India,Allow,Allow,Allow,Allow,23000,System Integrators/Consulting,Purchasing Manager,Referal,33,Warm,1
+80000,B,17,18,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,1200,System Integrators/Consulting,Owner,Email,17,Hot,0
+30000,C,10,17,1,Florida,United States,Do Not Allow,Allow,Allow,Allow,32000,Utilities,Owner,Referal,5,Hot,0
+80000,B,10,20,0,Bristol,United Kingdom,Do Not Allow,Allow,Allow,Allow,32000,Government/Aerospace/Defence,Owner,Partner,13,Hot,0
+80000,C,65,19,1,Liverpool,United Kingdom,Do Not Allow,Allow,Allow,Allow,32000,Transportation/Shipping/Cargo,Owner,Referal,17,Hot,1
+100000,A,24,17,1,New York,United States,Allow,Allow,Allow,Allow,23000,System Integrators/Consulting,Purchasing Manager,Email,28,Warm,1
+30000,B,27,19,0,New York,United States,Allow,Allow,Allow,Allow,22000,Technology/Software,Owner,Email,8,Warm,1
+300000,C,74,17,1,Alaska,United States,Allow,Allow,Allow,Allow,3600,Retail,Purchasing Assistant,Partner,87,Hot,1
+80000,C,38,19,1,New York,United States,Allow,Allow,Allow,Allow,18000,Hotels/Resturants,Owner,Digital,19,Cold,0
+300000,A,36,19,0,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,34500,Electronics,Purchasing Assistant,Partner,97,Warm,0
+80000,A,65,19,1,Glasgow,United Kingdom,Allow,Allow,Allow,Allow,11500,Transportation/Shipping/Cargo,Owner,Email,17,Warm,0
+150000,B,78,15,1,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,2400,Retail,Purchasing Manager,Digital,39,Hot,0
+30000,A,22,17,1,California,United States,Allow,Allow,Allow,Allow,1200,Electronics,Owner,Referal,2,Hot,1
+80000,A,97,18,0,New York,United States,Do Not Allow,Allow,Allow,Allow,32000,Electronics,Owner,Email,18,Hot,1
+300000,B,100,18,1,Manchaster,United Kingdom,Allow,Allow,Allow,Allow,66000,Utilities,Purchasing Assistant,Partner,97,Warm,1
+300000,A,15,16,0,Oklahoma,United States,Allow,Allow,Allow,Allow,76500,Education/Research,Purchasing Assistant,Partner,67,Warm,1
+30000,C,95,18,1,Glasgow,United Kingdom,Allow,Allow,Do Not Allow,Allow,11500,Utilities,Owner,Partner,5,Warm,0
+300000,B,33,19,0,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,66000,Transportation/Shipping/Cargo,Purchasing Assistant,Email,83,Warm,0
+80000,C,34,19,1,Uttar Pradesh,India,Allow,Allow,Allow,Allow,22000,Manufacturing,Owner,Email,16,Warm,0
+300000,B,24,19,1,Liverpool,United Kingdom,Allow,Allow,Allow,Allow,54000,Electronics,Purchasing Assistant,Referal,76,Cold,0
+300000,B,73,15,1,Maharashtra,India,Allow,Do Not Allow,Allow,Allow,84000,Healthcare,Purchasing Assistant,Digital,73,Cold,1
+300000,B,70,20,0,California,United States,Allow,Allow,Allow,Allow,3600,Transportation/Shipping/Cargo,Purchasing Assistant,Email,90,Hot,1
+100000,A,75,18,0,Oklahoma,United States,Do Not Allow,Allow,Allow,Allow,64000,Utilities,Purchasing Manager,Referal,27,Hot,1

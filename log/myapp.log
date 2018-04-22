@@ -1,0 +1,582 @@
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 39, in Run
+    return ModelService_pb2.RunReply(datanextModelId)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 40, in Run
+    return ModelService_pb2.RunReply(datanextModelId)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 40, in Run
+    return ModelService_pb2.RunReply(datanextModelId)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 40, in Run
+    return ModelService_pb2.RunReply(datanextModelId)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 43, in Run
+    return ModelService_pb2.RunReply(datanextModelId,result,recommendations,features)
+TypeError: No positional arguments allowed
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 43, in Run
+    return ModelService_pb2.RunReply(datanextModelId,result,recommendations,features)
+TypeError: No positional arguments allowed
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 43, in Run
+    return ModelService_pb2.RunReply(datanextModelId,result,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 48, in Run
+    return ModelService_pb2.RunReply(datanextModelId,predictionval,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 48, in Run
+    test=ModelService_pb2.RunReply(datanextModelId,predictionval,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 48, in Run
+    test=ModelService_pb2.RunReply(datanextModelId,predictionval,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 48, in Run
+    test=ModelService_pb2.RunReply(datanextModelId,predictionval,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 48, in Run
+    test=ModelService_pb2.RunReply(datanextModelId,predictionval,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: No positional arguments allowed
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 48, in Run
+    test=ModelService_pb2.RunReply(datanextModelId,predictionval,recommendations,features)
+TypeError: No positional arguments allowed
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: Assignment not allowed (no field "PredictionValue" in protocol message object).
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 51, in Run
+    test.result = predictionval
+AttributeError: Assignment not allowed (no field "PredictionValue" in protocol message object).
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: '' has type str, but expected one of: int, long, float
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 47, in Run
+    predictionval.probability = ""
+TypeError: '' has type str, but expected one of: int, long, float
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 41, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: insert() missing 1 required positional argument: 'cr'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 22, in Save
+    mdb.insert(insertdata)
+TypeError: insert() missing 1 required positional argument: 'cr'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 26, in Save
+    db.modelsinfo.insert_one(insertdata)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 26, in Save
+    db.modelsinfo.insert_many(insertdata)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 741, in insert_many
+    blk.ops = [doc for doc in gen()]
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 741, in <listcomp>
+    blk.ops = [doc for doc in gen()]
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 733, in gen
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 26, in Save
+    db.modelsinfo.insert_many(insertdata)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 741, in insert_many
+    blk.ops = [doc for doc in gen()]
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 741, in <listcomp>
+    blk.ops = [doc for doc in gen()]
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 733, in gen
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 26, in Save
+    db.modelsinfo.insert_one(insertdata)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 26, in Save
+    db.modelsinfo.insert_one(insertdata)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 28, in Save
+    db.modelsinfo.insert_one(message)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 28, in Save
+    db.modelsinfo.insert_one(message)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 29, in Save
+    db.modelsinfo.insert_one(message)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 29, in Save
+    db.modelsinfo.insert_one(message)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 29, in Save
+    db.modelsinfo.insert_one(json.dumps(message))
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/collection.py", line 676, in insert_one
+    common.validate_is_document_type("document", document)
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/pymongo/common.py", line 434, in validate_is_document_type
+    "collections.MutableMapping" % (option,))
+TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: find() missing 1 required positional argument: 'keyjson'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 31, in Save
+    data = json.loads(mdb.find({"sourceKey": sourceKey}))
+TypeError: find() missing 1 required positional argument: 'keyjson'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: find() missing 1 required positional argument: 'keyjson'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 31, in Save
+    data = json.loads(mdb.find({"sourceKey": sourceKey}))
+TypeError: find() missing 1 required positional argument: 'keyjson'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: the JSON object must be str, not 'Cursor'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 31, in Save
+    data = json.loads(db.modelsinfo.find({"sourceKey": sourceKey}))
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'Cursor'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: Protocol message SaveReply has no "datanextmodel" field.
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 33, in Save
+    return ModelService_pb2.SaveReply(datanextmodel=datanextmodel,sourceKey=sourceKey)
+ValueError: Protocol message SaveReply has no "datanextmodel" field.
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: ObjectId('5aa8462e1528571031c63b23') has type ObjectId, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 33, in Save
+    return ModelService_pb2.SaveReply(datanextModelId=datanextmodel,sourceKey=sourceKey)
+TypeError: ObjectId('5aa8462e1528571031c63b23') has type ObjectId, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+ERROR:root:Exception calling application: trainmodel() missing 1 required positional argument: 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+TypeError: trainmodel() missing 1 required positional argument: 'namevalue'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: 'dict' object has no attribute 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+  File "/home/sachin/PycharmProjects/datanext/leadprediction.py", line 12, in trainmodel
+    annual_revenue=self.namevalue["AmountDefault"]
+AttributeError: 'dict' object has no attribute 'namevalue'
+ERROR:root:Exception calling application: 'dict' object has no attribute 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+  File "/home/sachin/PycharmProjects/datanext/leadprediction.py", line 12, in trainmodel
+    annual_revenue=self.namevalue["AmountDefault"]
+AttributeError: 'dict' object has no attribute 'namevalue'
+ERROR:root:Exception calling application: 'dict' object has no attribute 'namevalue'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 49, in Run
+    probability=leadprediction.trainmodel(namevalue)
+  File "/home/sachin/PycharmProjects/datanext/leadprediction.py", line 12, in trainmodel
+    annual_revenue=self.namevalue["AmountDefault"]
+AttributeError: 'dict' object has no attribute 'namevalue'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: 'AmountDefault'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 54, in Run
+    annual_revenue = namevalue["AmountDefault"]
+KeyError: 'AmountDefault'
+ERROR:root:Exception calling application: 'AmountDefault'
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 54, in Run
+    annual_revenue = namevalue["AmountDefault"]
+KeyError: 'AmountDefault'
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: <class 'type'> returned a result with an error set
+TypeError: only size-1 arrays can be converted to Python scalars
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 76, in Run
+    predictionval.probability = probability
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/numpy/core/arrayprint.py", line 1375, in array_repr
+    if type(arr) is not ndarray:
+SystemError: <class 'type'> returned a result with an error set
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: array([0.58322757, 0.41677243]) has type numpy.ndarray, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 75, in Run
+    predictionval.value = probability
+TypeError: array([0.58322757, 0.41677243]) has type numpy.ndarray, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: 0.07929808133209906 has type numpy.float64, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 75, in Run
+    predictionval.value = probability
+TypeError: 0.07929808133209906 has type numpy.float64, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 79, in Run
+    return ModelService_pb2.RunReply(datanextModelId=datanextModelId,result=predictionval,recommendations=recommendations,features=features)
+TypeError: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+ERROR:root:Exception calling application: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 79, in Run
+    return ModelService_pb2.RunReply(datanextModelId=datanextModelId,result=predictionval,recommendations=recommendations,features=features)
+TypeError: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: 0.09908751487684685 has type numpy.float64, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 75, in Run
+    predictionval.value = probability
+TypeError: 0.09908751487684685 has type numpy.float64, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 79, in Run
+    return ModelService_pb2.RunReply(datanextModelId=datanextModelId,result=predictionval,recommendations=recommendations,features=features)
+TypeError: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: 0.282888065935823 has type float, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 75, in Run
+    predictionval.value =probability
+TypeError: 0.282888065935823 has type float, but expected one of: bytes, unicode
+ERROR:root:Exception calling application: 0.4627943246655355 has type float, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 75, in Run
+    predictionval.value =probability
+TypeError: 0.4627943246655355 has type float, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 79, in Run
+    return ModelService_pb2.RunReply(datanextModelId=datanextModelId,result=predictionval,recommendations=recommendations,features=features)
+TypeError: Parameter to MergeFrom() must be instance of same class: expected acidaes.datanext.ml.Feature got str.
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: 'Feature' object is not iterable
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 84, in Run
+    for f in Features:
+TypeError: 'Feature' object is not iterable
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: ['RiskRating', 'Islisted', 'Do not allow E-mails', 'Do not allow Mails', 'Job Title', 'Rating'] has type list, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 85, in Run
+    Features.name=name
+TypeError: ['RiskRating', 'Islisted', 'Do not allow E-mails', 'Do not allow Mails', 'Job Title', 'Rating'] has type list, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+ERROR:root:Exception calling application: ['RiskRating', 'Islisted', 'Do not allow E-mails', 'Do not allow Mails', 'Job Title', 'Rating'] has type list, but expected one of: bytes, unicode
+Traceback (most recent call last):
+  File "/home/sachin/PycharmProjects/datanext/grpc/lib/python3.5/site-packages/grpc/_server.py", line 385, in _call_behavior
+    return behavior(argument, context), True
+  File "/home/sachin/PycharmProjects/datanext/ModelService.py", line 85, in Run
+    Features.name=name
+TypeError: ['RiskRating', 'Islisted', 'Do not allow E-mails', 'Do not allow Mails', 'Job Title', 'Rating'] has type list, but expected one of: bytes, unicode
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051
+INFO:root:Server Started at [::]:50051

@@ -1,0 +1,49 @@
+Fiscal_Month,Project_State,deal_rating,designation,industry,risk_rating,new_project,win_rate,probab_of_closure,product,daysforconversion
+Jan,Ideation,hot,AVP,Finance/ banking,3,TRUE,0.3,0.15,bank gurantee,14
+Feb ,RFP,warm,Director,hotels / restaurant,4,FALSE,0.25,0.25,basic checking account,18
+Mar,RFI,cold,CTO,government/aerospace/ defence,1,TRUE,0.67,0.3,basic savings account,25
+Apr,Bid closed,dead,CFO,system integrators/consulting,6,FALSE,0.84,0.35,bill discounting,11
+May,Started,hot,CEO,technology/software,7,TRUE,0.34,0.4,business credit card,30
+Jun,In progress,warm,Vice President,telecommunication,8,FALSE,0.56,0.1,care plus life insurance,16
+Jul,Closed,cold,Country head,education/research,2,TRUE,0.98,0.2,cash management,22
+Aug,Ideation,dead,Vice President,electronics,4,FALSE,0.52,0.5,bank gurantee,14
+Sep,RFP,hot,Country head,energy,2,TRUE,0.72,0.55,basic checking account,22
+Oct,RFI,warm,AVP,healthcare,1,FALSE,0.84,0.65,basic savings account,15
+Nov,Bid closed,cold,Director,insurance,5,TRUE,0.59,0.75,bill discounting,26
+Dec,Started,dead,CTO,manufacturing,7,FALSE,0.71,0.8,business credit card,19
+Jan,In progress,hot,CFO,retail,8,TRUE,0.89,0.85,care plus life insurance,10
+Feb,Closed,warm,CEO,Finance/ banking,3,FALSE,0.92,0.2,cash management,15
+Mar,Ideation,cold,CEO,hotels / restaurant,2,TRUE,0.94,0.3,business credit card,29
+Apr,RFP,dead,IT head,government/aerospace/ defence,6,FALSE,0.28,0.7,care plus life insurance,10
+Jan,Ideation,hot,AVP,Finance/ banking,3,TRUE,0.3,0.15,bank gurantee,10
+Feb ,RFP,warm,Director,hotels / restaurant,4,FALSE,0.25,0.25,basic checking account,13
+Mar,RFI,cold,CTO,government/aerospace/ defence,1,TRUE,0.67,0.3,basic savings account,11
+Apr,Bid closed,dead,CFO,system integrators/consulting,6,FALSE,0.84,0.35,bill discounting,22
+May,Started,hot,CEO,technology/software,7,TRUE,0.34,0.4,business credit card,27
+Jun,In progress,warm,Vice President,telecommunication,8,FALSE,0.56,0.1,care plus life insurance,13
+Jul,Closed,cold,Country head,education/research,2,TRUE,0.98,0.2,cash management,25
+Aug,Ideation,dead,Vice President,electronics,4,FALSE,0.52,0.5,bank gurantee,10
+Sep,RFP,hot,Country head,energy,2,TRUE,0.72,0.55,basic checking account,10
+Oct,RFI,warm,AVP,healthcare,1,FALSE,0.84,0.65,basic savings account,21
+Nov,Bid closed,cold,Director,insurance,5,TRUE,0.59,0.75,bill discounting,23
+Dec,Started,dead,CTO,manufacturing,7,FALSE,0.71,0.8,business credit card,29
+Jan,In progress,hot,CFO,retail,8,TRUE,0.89,0.85,care plus life insurance,10
+Feb,Closed,warm,CEO,Finance/ banking,3,FALSE,0.92,0.2,cash management,18
+Mar,Ideation,cold,CEO,hotels / restaurant,2,TRUE,0.94,0.3,business credit card,28
+Apr,RFP,dead,IT head,government/aerospace/ defence,6,FALSE,0.28,0.7,care plus life insurance,12
+Jan,Ideation,hot,AVP,Finance/ banking,3,TRUE,0.3,0.15,bank gurantee,29
+Feb ,RFP,warm,Director,hotels / restaurant,4,FALSE,0.25,0.25,basic checking account,22
+Mar,RFI,cold,CTO,government/aerospace/ defence,1,TRUE,0.67,0.3,basic savings account,26
+Apr,Bid closed,dead,CFO,system integrators/consulting,6,FALSE,0.84,0.35,bill discounting,25
+May,Started,hot,CEO,technology/software,7,TRUE,0.34,0.4,business credit card,21
+Jun,In progress,warm,Vice President,telecommunication,8,FALSE,0.56,0.1,care plus life insurance,23
+Jul,Closed,cold,Country head,education/research,2,TRUE,0.98,0.2,cash management,10
+Aug,Ideation,dead,Vice President,electronics,4,FALSE,0.52,0.5,bank gurantee,27
+Sep,RFP,hot,Country head,energy,2,TRUE,0.72,0.55,basic checking account,29
+Oct,RFI,warm,AVP,healthcare,1,FALSE,0.84,0.65,basic savings account,15
+Nov,Bid closed,cold,Director,insurance,5,TRUE,0.59,0.75,bill discounting,18
+Dec,Started,dead,CTO,manufacturing,7,FALSE,0.71,0.8,business credit card,24
+Jan,In progress,hot,CFO,retail,8,TRUE,0.89,0.85,care plus life insurance,20
+Feb,Closed,warm,CEO,Finance/ banking,3,FALSE,0.92,0.2,cash management,30
+Mar,Ideation,cold,CEO,hotels / restaurant,2,TRUE,0.94,0.3,business credit card,27
+Apr,RFP,dead,IT head,government/aerospace/ defence,6,FALSE,0.28,0.7,care plus life insurance,16

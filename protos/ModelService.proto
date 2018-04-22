@@ -1,0 +1,223 @@
+﻿//..\packages\Grpc.Tools.1.10.0\tools\windows_x64\protoc -I=./ --csharp_out ./ --grpc_out ./ .\ModelService.proto --plugin=protoc-gen-grpc=../packages/Grpc.Tools.1.10.0/tools/windows_x64/grpc_csharp_plugin.exe
+
+// The Datanext ML service definition.
+syntax="proto3";
+
+import "google/protobuf/timestamp.proto";
+
+package acidaes.datanext.ml;
+
+service ModelService {
+
+    //rpc SaveProject(SaveProjectRequest) returns (SaveProjectReply) {};
+    rpc Save(SaveRequest) returns (SaveReply) {};
+    rpc Run(RunRequest) returns (RunReply) {};
+    rpc Health(HealthRequest) returns (HealthReply) {};
+    rpc Rebuild(RebuildRequest) returns (RebuildReply) {};
+    rpc Visualize(VisualizeRequest) returns (VisualizeReply) {};
+    rpc Load(LoadRequest) returns (LoadReply) {};
+	rpc RegisterEntities (RegisterEntitiesRequest) returns (RegisterEntitiesReply) {};
+	rpc RegisterModelEntity (RegisterModelEntityRequest) returns (RegisterEntitiesReply) {};
+}
+
+message DataSource {
+	string FullQuery = 1;
+	string IncrementalQuery = 2;
+	string IncrementalField = 3;
+}
+
+message DataConnection {
+	string ConnectionString = 1;
+	string ConnectionType = 2;
+}
+
+message RegisterEntitiesRequest {
+	string Owner = 1;
+	DataConnection Connection = 2;
+	repeated EntityMetadata MetaData = 3;
+}
+
+message RegisterModelEntityRequest {
+	string Owner = 1;
+	string DatanextModelId = 2;
+	DataConnection Connection = 3;
+	EntityMetadata MetaData = 4;
+}
+
+message Field {
+	string Name=1;
+	string Label=2;
+	string DataType=3;
+	int32 Length=4;
+	string Lookup=5;
+	string SourceField=6;
+}
+
+message EntityMetadata {
+	repeated string PrimaryKeys=1;
+	repeated Field Fields=2;
+	string EntityName=3;
+	DataSource Source=4;
+}
+
+message RegisterEntitiesReply {
+	bool isSuccess = 1;
+}
+
+message SourceEntity
+{
+    string type=1;
+    repeated string fields=2;
+    string filter=3;
+	repeated string sourceFields=4;
+}
+
+message ModelOptions{
+   float desiredAccuracy=1;
+}
+
+message PredictionValue
+{
+    string label = 1;
+    string name = 2;
+    string type = 3;
+    string value = 4;
+    float probability = 5;
+}
+
+message Prediction {
+    string label = 1;
+    string name = 2;
+}
+
+message SaveRequest
+{
+   string name=1;
+   string sourceKey=2;
+   string datanextModelId=3;
+   SourceEntity sourceEntity=4;//entityType
+   Prediction predition=5;
+   ModelOptions options=6;
+   string createdBy=7;
+   google.protobuf.Timestamp timestamp=8;
+}
+
+message SaveReply
+{
+    string datanextModelId=1;
+}
+
+message Argument
+{
+    string name=1;
+    string value=2;
+}
+
+message RunOption
+{
+    string algorithm=1;//"auto"
+}
+
+message RunRequest
+{
+  string datanextModelId=1;
+  repeated Argument data=3;
+  RunOption options = 4;
+  string createdBy=5;
+  google.protobuf.Timestamp timestamp=6;
+}
+
+message RunReply
+{
+  string datanextModelId=1;
+  PredictionValue result=2;
+  repeated string recommendations=3;
+  repeated Feature features=4;
+}
+
+message HealthRequest
+{
+  string datanextModelId=1;
+  /*int32 current_accuracy=2;
+  int32 target_accuracy=3;
+  string rebuild_goal=4;
+  int32 count=5;
+  int32 count_since_last_rebuild=6;
+  string sources=7;
+  string requested_by=8;
+  google.protobuf.Timestamp requested_on=9;
+  */
+}
+
+message HealthReply
+{
+    string name=1;
+    /*int32 probability=2;
+    message predictive_factors=3;
+    message recommendations=4;*/
+}
+
+message RebuildOption
+{
+    repeated string alogrithms = 1;
+}
+
+message RebuildRequest
+{
+    string datanextModelId=1;
+    RebuildOption options =2;
+    string createdBy=5;
+    google.protobuf.Timestamp timestamp=6;
+}
+
+message RebuildReply
+{
+    string datanextModelId=1;
+    string sourceKey=2;
+    ModelBuild build=3;
+}
+
+message Feature
+{
+    string name =1;
+    string label =2;
+    float probability=3;
+	bool isNegative=4;
+}
+
+message ModelBuild
+{
+    google.protobuf.Timestamp timestamp=1;
+    string  version=2;
+    repeated Feature features=3;
+}
+
+message VisualizeRequest
+{
+    string datanextModelId=1;
+}
+
+message VisualizeReply
+{
+    string sourceKey=1;
+    string accuracyJson=2;
+    string corrlationJson=3;
+}
+
+message LoadReply
+{
+   string name=1;
+   string sourceKey=2;
+   string datanextModelId=3;
+   SourceEntity sourceEntity=4;//entityType
+   Prediction predition=5;
+   ModelOptions options=6;
+   string createdBy=7;
+   google.protobuf.Timestamp timestamp=8;
+   ModelBuild Build = 9;
+}
+
+message LoadRequest
+{
+    string datanextModelId=1;
+}
