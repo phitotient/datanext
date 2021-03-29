@@ -30,7 +30,7 @@ pandas-profiling==1.4.1
 pefile==2017.11.5
 protobuf==3.5.2.post1
 psutil==5.4.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.3.1
 pymongo==3.6.1
 pymssql==2.1.3
